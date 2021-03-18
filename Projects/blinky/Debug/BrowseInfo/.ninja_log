@@ -1,0 +1,16 @@
+# ninja log v5
+7	333	6378095570000000	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/blinky/Debug/BrowseInfo/driverleds.xcl	75bffdc0a77002c7
+1	349	6378095570000000	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/blinky/Debug/BrowseInfo/blinky.xcl	723324ff58b852ca
+345	552	6378095580000000	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/blinky/Debug/BrowseInfo/RTX_Config.xcl	9a41f3f36e01a3df
+360	604	6378095580000000	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/blinky/Debug/BrowseInfo/system_TM4C1294_TW.xcl	b8355eee6a258513
+566	855	6378095583123990	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/blinky/Debug/BrowseInfo/RTX_Config.pbi	c30fab01fb319247
+628	909	6378095583652576	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/blinky/Debug/BrowseInfo/system_TM4C1294_TW.pbi	2c774473012ff3a4
+860	979	6378095584355821	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/blinky/Debug/BrowseInfo/driverleds.pbi	9aaa4f873ee3fa81
+983	1092	6378095585472829	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/blinky/Debug/BrowseInfo/blinky.pbi	b5f9e181b1e83aee
+913	1117	6378095580000000	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/blinky/Debug/BrowseInfo/rtx_lib.xcl	d60ce60d0014cbfb
+1096	1135	6378095585891700	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/blinky/Debug/BrowseInfo/blinky_part0.pbi	e6d4508939110db2
+1139	1198	6378095586559929	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/blinky/Debug/BrowseInfo/blinky_part2.pbi	fdafb5f5c578e585
+1128	1277	6378095587357789	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/blinky/Debug/BrowseInfo/rtx_lib.pbi	3a6e4575c379377e
+1282	1318	6378095587786635	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/blinky/Debug/BrowseInfo/blinky_part1.pbi	5cf453ccb9d68d6f
+1324	1390	6378095588494755	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/blinky/Debug/BrowseInfo/blinky.pbd	f898f99aa24bb6a9
+1397	2724	6378095601101013	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/blinky/Debug/BrowseInfo/blinky.pbw	13e56026123a63e

@@ -1,0 +1,9 @@
+# ninja log v5
+1	44	6378096962934071	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/blinky/ewarm/Obj/startup_TM4C1294.o	32726cfcde4acd96
+6	219	6378096964555209	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/blinky/ewarm/Obj/blinky.o	dceaf948eb7802e3
+50	281	6378096965178306	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/blinky/ewarm/Obj/driverleds.o	bd3a01e8148d7c8
+232	379	6378096966026014	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/blinky/ewarm/Obj/RTX_Config.o	cc5ee7e376295284
+295	486	6378096967235306	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/blinky/ewarm/Obj/system_TM4C1294_TW.o	7fb2aa6cbe109d82
+394	620	6378096967944605	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/blinky/ewarm/Obj/rtx_lib.o	af3a88f512a6b81c
+640	2883	6378096991156988	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/blinky/ewarm/Exe/blinky.out	eedff2157098bcb4
+2903	3187	6378096994393739	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/blinky/ewarm/Exe/blinky.bin	82dc174e29e3a888

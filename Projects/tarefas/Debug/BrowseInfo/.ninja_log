@@ -1,0 +1,16 @@
+# ninja log v5
+1	1733	6378095340000000	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/Debug/BrowseInfo/rtx_lib.xcl	218aacf1db6f1b7c
+75	1758	6378095340000000	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/Debug/BrowseInfo/RTX_Config.xcl	a24a5c97b30a01d8
+1747	1945	6378095340000000	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/Debug/BrowseInfo/driverleds.xcl	4e9462fb5b73e3a0
+1961	2436	6378095354839342	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/Debug/BrowseInfo/RTX_Config.pbi	fb81d225b9a92de2
+1769	2507	6378095355587360	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/Debug/BrowseInfo/rtx_lib.pbi	d4779d344e9abad8
+2441	2589	6378095356355283	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/Debug/BrowseInfo/driverleds.pbi	de9658d1a02cbdb7
+2512	2700	6378095350000000	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/Debug/BrowseInfo/tarefas.xcl	6e73c3c7d41d6e20
+2593	2822	6378095350000000	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/Debug/BrowseInfo/system_TM4C1294_TW.xcl	46d8ddf080b19558
+2714	2956	6378095360106353	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/Debug/BrowseInfo/tarefas.pbi	a29ff2d2a11a2529
+2836	3061	6378095361113679	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/Debug/BrowseInfo/system_TM4C1294_TW.pbi	e77be68e3b980d6c
+2962	3087	6378095361432810	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/Debug/BrowseInfo/tarefas_part2.pbi	8ab9c0608b72a597
+3067	3108	6378095361602357	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/Debug/BrowseInfo/tarefas_part0.pbi	f49e463094e86f2a
+3092	3155	6378095362101020	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/Debug/BrowseInfo/tarefas_part1.pbi	f5d1f824aaa304ca
+3161	3227	6378095362829073	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/Debug/BrowseInfo/tarefas.pbd	9225ecd782202909
+3234	7585	6378095404360361	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/Debug/BrowseInfo/tarefas.pbw	ef0a2d69f0bc1903
