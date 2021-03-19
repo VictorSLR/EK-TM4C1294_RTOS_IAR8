@@ -64292,13 +64292,99 @@
     "scope": null
   },
   {
+    "ID": "c:@thread3_id",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "thread3_id",
+    "location": {
+      "column": "38",
+      "line": "5",
+      "path": "C:\\Users\\Victor\\Documents\\Github_Embarcados\\EK-TM4C1294_RTOS_IAR8\\Projects\\tarefas\\src\\tarefas.c"
+    },
+    "name": "thread3_id",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@thread4_id",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "thread4_id",
+    "location": {
+      "column": "50",
+      "line": "5",
+      "path": "C:\\Users\\Victor\\Documents\\Github_Embarcados\\EK-TM4C1294_RTOS_IAR8\\Projects\\tarefas\\src\\tarefas.c"
+    },
+    "name": "thread4_id",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@S@leds_arg",
+    "What": "Struct",
+    "defdec": "Def",
+    "display": "leds_arg",
+    "location": {
+      "column": "16",
+      "line": "7",
+      "path": "C:\\Users\\Victor\\Documents\\Github_Embarcados\\EK-TM4C1294_RTOS_IAR8\\Projects\\tarefas\\src\\tarefas.c"
+    },
+    "members": [
+      {
+        "ID": "c:@S@leds_arg@FI@led",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "led",
+        "location": {
+          "column": "8",
+          "line": "8",
+          "path": "C:\\Users\\Victor\\Documents\\Github_Embarcados\\EK-TM4C1294_RTOS_IAR8\\Projects\\tarefas\\src\\tarefas.c"
+        },
+        "name": "led",
+        "origin": "project_file",
+        "scope": "leds_arg"
+      },
+      {
+        "ID": "c:@S@leds_arg@FI@tempo",
+        "What": "FieldDecl",
+        "defdec": "Def",
+        "display": "tempo",
+        "location": {
+          "column": "8",
+          "line": "9",
+          "path": "C:\\Users\\Victor\\Documents\\Github_Embarcados\\EK-TM4C1294_RTOS_IAR8\\Projects\\tarefas\\src\\tarefas.c"
+        },
+        "name": "tempo",
+        "origin": "project_file",
+        "scope": "leds_arg"
+      }
+    ],
+    "name": "leds_arg",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:tarefas.c@T@leds_arg",
+    "What": "Typedef",
+    "defdec": "Def",
+    "display": "struct leds_arg",
+    "location": {
+      "column": "3",
+      "line": "10",
+      "path": "C:\\Users\\Victor\\Documents\\Github_Embarcados\\EK-TM4C1294_RTOS_IAR8\\Projects\\tarefas\\src\\tarefas.c"
+    },
+    "name": "leds_arg",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
     "ID": "c:@F@thread1",
     "What": "Function",
     "defdec": "Def",
     "display": "void thread1(void *)",
     "location": {
       "column": "6",
-      "line": "7",
+      "line": "12",
       "path": "C:\\Users\\Victor\\Documents\\Github_Embarcados\\EK-TM4C1294_RTOS_IAR8\\Projects\\tarefas\\src\\tarefas.c"
     },
     "name": "thread1",
@@ -64306,58 +64392,30 @@
     "scope": null
   },
   {
-    "ID": "c:tarefas.c@195@F@thread1@state",
+    "ID": "c:tarefas.c@289@F@thread1@thr_led",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "thr_led",
+    "location": {
+      "column": "13",
+      "line": "13",
+      "path": "C:\\Users\\Victor\\Documents\\Github_Embarcados\\EK-TM4C1294_RTOS_IAR8\\Projects\\tarefas\\src\\tarefas.c"
+    },
+    "name": "thr_led",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:tarefas.c@329@F@thread1@state",
     "What": "Variable",
     "defdec": "Def",
     "display": "state",
     "location": {
       "column": "11",
-      "line": "8",
+      "line": "14",
       "path": "C:\\Users\\Victor\\Documents\\Github_Embarcados\\EK-TM4C1294_RTOS_IAR8\\Projects\\tarefas\\src\\tarefas.c"
     },
     "name": "state",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@thread2",
-    "What": "Function",
-    "defdec": "Def",
-    "display": "void thread2(void *)",
-    "location": {
-      "column": "6",
-      "line": "17",
-      "path": "C:\\Users\\Victor\\Documents\\Github_Embarcados\\EK-TM4C1294_RTOS_IAR8\\Projects\\tarefas\\src\\tarefas.c"
-    },
-    "name": "thread2",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:tarefas.c@357@F@thread2@state",
-    "What": "Variable",
-    "defdec": "Def",
-    "display": "state",
-    "location": {
-      "column": "11",
-      "line": "18",
-      "path": "C:\\Users\\Victor\\Documents\\Github_Embarcados\\EK-TM4C1294_RTOS_IAR8\\Projects\\tarefas\\src\\tarefas.c"
-    },
-    "name": "state",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:tarefas.c@379@F@thread2@tick",
-    "What": "Variable",
-    "defdec": "Def",
-    "display": "tick",
-    "location": {
-      "column": "12",
-      "line": "19",
-      "path": "C:\\Users\\Victor\\Documents\\Github_Embarcados\\EK-TM4C1294_RTOS_IAR8\\Projects\\tarefas\\src\\tarefas.c"
-    },
-    "name": "tick",
     "origin": "project_file",
     "scope": null
   },
@@ -64368,10 +64426,66 @@
     "display": "void main(void)",
     "location": {
       "column": "6",
-      "line": "31",
+      "line": "24",
       "path": "C:\\Users\\Victor\\Documents\\Github_Embarcados\\EK-TM4C1294_RTOS_IAR8\\Projects\\tarefas\\src\\tarefas.c"
     },
     "name": "main",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:tarefas.c@582@F@main@led1",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "led1",
+    "location": {
+      "column": "12",
+      "line": "29",
+      "path": "C:\\Users\\Victor\\Documents\\Github_Embarcados\\EK-TM4C1294_RTOS_IAR8\\Projects\\tarefas\\src\\tarefas.c"
+    },
+    "name": "led1",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:tarefas.c@582@F@main@led2",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "led2",
+    "location": {
+      "column": "18",
+      "line": "29",
+      "path": "C:\\Users\\Victor\\Documents\\Github_Embarcados\\EK-TM4C1294_RTOS_IAR8\\Projects\\tarefas\\src\\tarefas.c"
+    },
+    "name": "led2",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:tarefas.c@582@F@main@led3",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "led3",
+    "location": {
+      "column": "24",
+      "line": "29",
+      "path": "C:\\Users\\Victor\\Documents\\Github_Embarcados\\EK-TM4C1294_RTOS_IAR8\\Projects\\tarefas\\src\\tarefas.c"
+    },
+    "name": "led3",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:tarefas.c@582@F@main@led4",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "led4",
+    "location": {
+      "column": "30",
+      "line": "29",
+      "path": "C:\\Users\\Victor\\Documents\\Github_Embarcados\\EK-TM4C1294_RTOS_IAR8\\Projects\\tarefas\\src\\tarefas.c"
+    },
+    "name": "led4",
     "origin": "project_file",
     "scope": null
   }

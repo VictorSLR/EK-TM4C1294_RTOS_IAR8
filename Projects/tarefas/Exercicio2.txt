@@ -1,0 +1,12 @@
+Victor Reis
+
+Exercicio 2 - RTOS
+
+OS_TICK_FREQ = 1000
+OS_THREAD_NUM = 1
+OS_THREAD_DEF_STACK_NUM = 1
+
+A alteração da configuração OS_TICK_FREQ de 1000 para 500 faz os LEDS piscarem em uma frequência menor.
+
+
+

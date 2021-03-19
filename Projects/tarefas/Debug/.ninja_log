@@ -1,0 +1,27 @@
+# ninja log v5
+1	162	6378139582990087	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Obj/startup_TM4C1294.o	8c862036fb8fe5a7
+7	358	6378139584815199	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Obj/driverleds.o	4a9c22b1db973929
+168	480	6378139586011997	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Obj/rtx_lib.o	d66ac3e6dc1562c5
+374	573	6378139586929547	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Obj/RTX_Config.o	e655a5c6c1092b68
+500	710	6378139587986729	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Obj/tarefas.o	6f94d365f83a1cd3
+588	814	6378139589353073	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Obj/system_TM4C1294_TW.o	fe9f200cf1f75942
+830	1542	6378139596547281	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Exe/tarefas.out	4e9154df181d3c57
+1559	1596	6378139597414958	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Exe/tarefas.bin	bf7138a2d7f9d56a
+3	130	6378142443799146	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Obj/rtx_lib.o	d66ac3e6dc1562c5
+146	293	6378142445315092	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Exe/tarefas.out	4e9154df181d3c57
+312	323	6378142445893541	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Exe/tarefas.bin	bf7138a2d7f9d56a
+2	112	6378175613253710	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Obj/tarefas.o	6f94d365f83a1cd3
+137	473	6378175616760003	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Exe/tarefas.out	4e9154df181d3c57
+489	505	6378175617378338	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Exe/tarefas.bin	bf7138a2d7f9d56a
+2	211	6378177733846695	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Obj/tarefas.o	6f94d365f83a1cd3
+229	382	6378177735470094	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Exe/tarefas.out	4e9154df181d3c57
+400	411	6378177736028578	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Exe/tarefas.bin	bf7138a2d7f9d56a
+3	297	6378180912919011	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Obj/tarefas.o	6f94d365f83a1cd3
+315	453	6378180914430600	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Exe/tarefas.out	4e9154df181d3c57
+470	481	6378180914959181	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Exe/tarefas.bin	bf7138a2d7f9d56a
+4	374	6378208283287578	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Obj/rtx_lib.o	d66ac3e6dc1562c5
+388	548	6378208284913237	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Exe/tarefas.out	4e9154df181d3c57
+565	577	6378208285531577	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Exe/tarefas.bin	bf7138a2d7f9d56a
+3	289	6378213696117770	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Obj/tarefas.o	6f94d365f83a1cd3
+304	447	6378213697653681	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Exe/tarefas.out	4e9154df181d3c57
+465	478	6378213698207297	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/tarefas/ewarm/Exe/tarefas.bin	bf7138a2d7f9d56a
