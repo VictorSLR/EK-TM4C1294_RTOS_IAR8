@@ -1,0 +1,16 @@
+# ninja log v5
+2	661	6394467840000000	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/Debug/BrowseInfo/driverleds.xcl	caf8910741634e38
+221	680	6394467840000000	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/Debug/BrowseInfo/RTX_Config.xcl	c1fe9fbd31a7e18f
+818	1157	6394467850000000	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/Debug/BrowseInfo/rtx_lib.xcl	45deadb63c70acd
+676	1260	6394467850000000	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/Debug/BrowseInfo/prodcons.xcl	eb660d76ae5e5f74
+1285	1513	6394467857656998	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/Debug/BrowseInfo/prodcons.pbi	2b098e3e09fdb9c1
+1174	1570	6394467858210602	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/Debug/BrowseInfo/driverleds.pbi	9c2079124ed4302e
+1517	1848	6394467860810308	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/Debug/BrowseInfo/RTX_Config.pbi	ba4d4bda7f669bf3
+1576	1929	6394467861687972	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/Debug/BrowseInfo/rtx_lib.pbi	a141f877d63a3420
+7	245	6394467916178402	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/Debug/BrowseInfo/prodcons_part1.pbi	241c703bf855c370
+2	259	6394467910000000	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/Debug/BrowseInfo/system_TM4C1294_TW.xcl	5701f7c74792a874
+251	304	6394467916856589	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/Debug/BrowseInfo/prodcons_part0.pbi	e7d57dec3138e383
+273	611	6394467919935978	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/Debug/BrowseInfo/system_TM4C1294_TW.pbi	d62f0c11cc3685d
+617	666	6394467920524523	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/Debug/BrowseInfo/prodcons_part2.pbi	4b23860cb6dfcdc3
+672	732	6394467921172688	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/Debug/BrowseInfo/prodcons.pbd	e10df5ceb112eabb
+741	4460	6394467957872630	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/Debug/BrowseInfo/prodcons.pbw	591b5074d08ac73f

@@ -1,0 +1,9 @@
+# ninja log v5
+1	4352	6394467250382895	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/ewarm/Obj/startup_TM4C1294.o	d256e3f7fc980b2c
+2399	6992	6394467293373894	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/ewarm/Obj/RTX_Config.o	1b5e305434493961
+7012	7870	6394467302196898	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/ewarm/Obj/prodcons.o	788fd4622b2a1eb2
+4364	7960	6394467302973083	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/ewarm/Obj/driverleds.o	20f6cdde69d09b85
+7887	8544	6394467308969927	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/ewarm/Obj/rtx_lib.o	5f59b118eb0ece14
+7996	8903	6394467312043930	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/ewarm/Obj/system_TM4C1294_TW.o	d24fb96d1360d02d
+8921	14021	6394467363673603	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/ewarm/Exe/prodcons.out	a61f2d8c9195ded1
+14039	14856	6394467372272964	C:/Users/Victor/Documents/Github_Embarcados/EK-TM4C1294_RTOS_IAR8/Projects/prodcons/ewarm/Exe/prodcons.bin	3d46b96a999bcb07
